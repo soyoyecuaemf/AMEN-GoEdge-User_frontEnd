@@ -16,11 +16,4 @@ Vue.prototype.$timeOut = 8000
 // 组件最大缓存数
 Vue.prototype.$Max_KeepAlive = 10
 
-// 侧边栏底部文字
-Vue.prototype.$buttonList = [
-  { text: '湮灭网络工作室', URL: 'https://www.ymypay.cn' },
-  { text: '关于作者', URL: 'https://github.com/2331892928' },
-  { text: 'Power By AMEN', URL: 'https://github.com/2331892928' }
-]
-
 export default Vue
